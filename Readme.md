@@ -1,6 +1,7 @@
-# FunWeb_Project
+# [FunWeb_Project](https://nishanthnaa52.github.io/FunWeb_Project/)
 
 This is a Vite React project. Follow the steps below to set up and run the project on your local machine.
+[Live link](https://nishanthnaa52.github.io/FunWeb_Project/)
 
 ## Prerequisites
 
