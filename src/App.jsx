@@ -3,7 +3,7 @@ import './App.css'
 function App() {
 
   let clk = () => {
-    window.open("https://github.com/DineshDK176/Project_SIH", "_blank");
+    window.open("https://github.com/Nishanthnaa52/FunWeb_Project", "_blank");
   }
   return (
     <>
